@@ -6,7 +6,7 @@
 <!--Parte dos quadros-->
 <div>
   <a href="https://github.com/0x1Ry4n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxUnknown&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Ry4n&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <!--Parte dos incones-->
