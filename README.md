@@ -1,6 +1,6 @@
 ### Hi, I'm Ryan 👋
 
-- 🌱 I am currently learning about Computer programming 💻.
+- 🌱 I'm currently learning about Web Development 💻.
 - ⚡ Curiosity: Interest in low-level programming, debugging and kernel development. Average knowledge in Web Development. 
 
 <!--Parte dos quadros-->
