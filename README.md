@@ -1,6 +1,6 @@
 ### Hi, I'm Ryan 👋
 
-- 🌱 I'm currently learning about Web Development (PHP, Javascript, React, Next.js and more) 💻.
+- 🌱 I'm currently learning about Web Development (PHP, Javascript, React, Node.js and more) 💻.
 - ⚡ Curiosity: Interest in Operating Systems, Low Level, Data Structures, etc. 
 
 <!--Parte dos quadros-->
@@ -13,8 +13,11 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="center" alt="PHP" height="30" width="40" src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor">
   <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor">
   
   #
   
