@@ -13,9 +13,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">t
-    
-  <img align="center" alt="Node.JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=currentColor">
+    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor">
   <img align="center" alt="Linux" height="30" width="40" src="https://icongr.am/devicon/linux-plain.svg?size=128&color=ffffff">
   <img align="center" alt="Windows" height="30" width="40" src="https://icongr.am/devicon/windows8-original.svg?size=128&color=currentColor">
 </div>
