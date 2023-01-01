@@ -1,7 +1,7 @@
 ### Hi, I'm Ryan 👋
 
-- 🌱 I'm currently learning about Web Development 💻.
-- ⚡ Curiosity: Interest in Low-Level Programming, Operating Systems, Devops, etc. 
+- 🌱 I'm currently learning about Web Development (PHP, Javascript, React, Next.js and more) 💻.
+- ⚡ Curiosity: Interest in Operating Systems, Low Level, Data Structures, etc. 
 
 <!--Parte dos quadros-->
 <div>
@@ -26,6 +26,5 @@
   <a href="https://www.instagram.com/ryan_luckaz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ryanlucas2018gz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ryan-l-a1747a214" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/0x1Ry4n" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 </div>
