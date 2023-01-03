@@ -11,7 +11,7 @@
 <br>
 <div>
   <a href="https://github.com/0x1Ry4n">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Ry4n&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x1Ry4n&layout=compact&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
