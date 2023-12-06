@@ -1,7 +1,7 @@
 ### Hi, I'm Ryan 👋
 
-- 🌱 I'm currently learning about Web Development (Javascript, React, Node.js and more) 💻.
-- ⚡ Curiosity: Interest in Visual Computing, Microcontrollers, Operating Systems, Low Level, Data Structures, etc. 
+- 🌱 I'm currently learning about Web Development (HTML5, CSS, Javascript, React, Node.js, Next.js, SQL, MongoDB, AWS and more).
+- ⚡ Curiosity: Interest in Data analysis, OpenCV, Microcontrollers, Operating Systems, Low Level and Data Structures etc. 
 
 <!--Parte dos quadros-->
 <div>
