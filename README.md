@@ -1,6 +1,6 @@
 ### Hi, I'm Ryan 👋
 
-- 🌱 I'm currently learning about Web Development (HTML5, CSS, Javascript, Node.js, SQL, MongoDB, Docker, AWS and more).
+- 🌱 I'm currently learning about Web Development (HTML5, CSS, Javascript, Node.js, Python, SQL, MongoDB, Docker, AWS and more).
 - ⚡ Curiosity: Interest in Data analysis, OpenCV, Microcontrollers, Operating Systems, Low Level and Data Structures etc. 
 
 <!--Parte dos quadros-->
