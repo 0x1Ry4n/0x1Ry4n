@@ -1,13 +1,12 @@
-
 # Hi, I'm Ryan! 👋
 
 💻 **Software Developer | Full Stack Developer**
 
 I'm a software developer passionate about building applications, exploring new technologies, and solving problems through code.
 
-- 🌱 **Currently learning:** Web Development, Cloud Computing, Docker, AWS, Node.js, Python and Software Architecture as stuff.
-- ⚡ **Interests:** Data Analysis, OpenCV, Microcontrollers, Operating Systems, Low-Level Programming and Data Structures.
-- 🚀 **Always exploring:** New technologies, clean code and software engineering best practices.
+- 🌱 **Currently learning:** Cloud Computing, Docker, AWS, Node.js, Python, and Software Architecture.
+- ⚡ **Interests:** Data Analysis, OpenCV, Microcontrollers, Operating Systems, Low-Level Programming, and Data Structures.
+- 🚀 **Always exploring:** New technologies, clean code, and software engineering best practices.
 
 ---
 
@@ -34,9 +33,9 @@ I'm a software developer passionate about building applications, exploring new t
 ### 📊 GitHub Statistics
 
 <div align="center">
- [![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=0x1Ry4n)](https://github.com/stats-organization/github-stats-extended)
+  <img src="https://github-stats-extended.vercel.app/api?username=0x1Ry4n" alt="Ryan's GitHub Stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=0x1Ry4n&layout=compact" alt="Top Languages"/>
 </div>
-
 
 ---
 
