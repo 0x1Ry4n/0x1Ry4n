@@ -36,19 +36,12 @@ I'm a software developer passionate about building applications, exploring new t
 <div align="center">
   <a href="https://github.com/0x1Ry4n">
     <img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=0x1Ry4n&show_icons=true&theme=radical"
-  alt="GitHub Stats"
-/>
-  </a>
-  <a href="https://github.com/0x1Ry4n">
-    <img
-  height="180em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0x1Ry4n&layout=compact&theme=radical"
-  alt="Most Used Languages"
-/>
+      src="https://github.com/stats-organization/github-stats-extended"
+      alt="GitHub Statistics Extended"
+    />
   </a>
 </div>
+
 
 ---
 
