@@ -34,12 +34,7 @@ I'm a software developer passionate about building applications, exploring new t
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/0x1Ry4n">
-    <img
-      src="https://github.com/stats-organization/github-stats-extended"
-      alt="GitHub Statistics Extended"
-    />
-  </a>
+ [![Ryan's GitHub stats](https://github-stats-extended.vercel.app/api?username=0x1Ry4n)](https://github.com/stats-organization/github-stats-extended)
 </div>
 
 
