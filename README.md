@@ -48,7 +48,7 @@ I'm a software developer passionate about building applications, exploring new t
   <a href="mailto:ryanlucas2018gz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/ryan-l-a1747a214/" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-lucas-a1747a214" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
