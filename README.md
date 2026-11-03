@@ -5,7 +5,7 @@
 
 I'm a software developer passionate about building applications, exploring new technologies, and solving problems through code.
 
-- 🌱 **Currently learning:** Web Development, Cloud Computing, Docker, AWS, Python and Software Architecture.
+- 🌱 **Currently learning:** Web Development, Cloud Computing, Docker, AWS, Node.js, Python and Software Architecture as stuff.
 - ⚡ **Interests:** Data Analysis, OpenCV, Microcontrollers, Operating Systems, Low-Level Programming and Data Structures.
 - 🚀 **Always exploring:** New technologies, clean code and software engineering best practices.
 
